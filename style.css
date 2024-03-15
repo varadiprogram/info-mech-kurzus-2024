@@ -1,0 +1,72 @@
+.div1 {
+    padding: 20px;
+}
+
+.div1 h1 {
+    text-align: center;
+    color: white;
+    font-size: 80px;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.div1 p {
+    text-align: center;
+    color: white;
+    font-size: 16.5px;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.div1 a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.div2 {
+    overflow: hidden;
+    border-style: solid;
+    padding: 17px;
+    background-color: #188474;
+    border-color: #188474;
+}
+
+.div2 a {
+    color: white;
+    margin-left: 12%;
+    font-size: 15px;
+    font-weight: 300;
+    font-style: normal;
+}
+
+
+.col button {
+    border-style: solid;
+    background-color: white;
+    border-color: #188474;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+
+.col a {
+    text-decoration: none;
+    color: #188474;
+    padding: 2px;
+
+}
+
+.div3 {
+    margin-left: 12%;
+    font-size: 16.5px;
+    font-weight: 300;
+    font-style: normal;
+    margin-right: 12%;
+}
+
+.div3 p {
+    font-size: 20px;
+}
